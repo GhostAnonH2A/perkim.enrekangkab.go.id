@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://perkim.enrekangkab.go.id/icon/slot-deposit-pulsa/sitemap.xml
